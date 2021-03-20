@@ -53,7 +53,6 @@
 2. 未來五年全球雲端運算市場規模將達到九百五十億美元，占全世界軟體市場的百分之十二。
 3. 有研究機構發現90%的公司在2019年時已經使用雲端服務了，也預測在2021時，所有的運算將會有94％在雲端資料中心完成。
 ![images](https://user-images.githubusercontent.com/79895812/111881486-8e245e00-89eb-11eb-9f89-12e40ebaefee.png)
-
 此圖展示了雲端市場的成長
 ![images2](https://user-images.githubusercontent.com/79895812/111881609-2d495580-89ec-11eb-842b-718dbb0f2473.png)
 
