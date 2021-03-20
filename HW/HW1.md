@@ -44,5 +44,5 @@
 ## 雲端運算的應用與未來發展
 ## 個人心得
 ## 參考資料
-1. 雲端運算徹底了解：基礎篇 https://www.ithome.com.tw/article/93002
+1. 雲端運算徹底了解：基礎篇-https://www.ithome.com.tw/article/93002
 
