@@ -9,27 +9,39 @@
 
 ## 作業學習記錄
 * [作業一](HW/HW1.md)
-> 題目：將您了解的知識與主觀想法來描述雲端運算與其產業的趨勢發展，內容不少於250字。
+> 題目：What do you think of Cloud Computing ?
+> 
+> 將您了解的知識與主觀想法來描述雲端運算與其產業的趨勢發展，內容不少於250字。
 > 
 > 截止日期：2021/03/22
 * 作業二
-> 題目：藉由 Linux 2 虛擬機完成安裝 LAMP 解決方案包，並成功啟動網頁伺服器與資料庫伺服器的功能。並於過程中說明與解釋您的操作步驟。
+> 題目：Build a Website using Amazon EC2 with LAMP
+> 
+> 藉由 Linux 2 虛擬機完成安裝 LAMP 解決方案包，並成功啟動網頁伺服器與資料庫伺服器的功能。並於過程中說明與解釋您的操作步驟。
 > 
 > 截止日期：2021/04/05
 * 作業三
-> 題目：運用 S3 與 Amplify 服務進行網頁部署，過程中演示版本控制功能。並於過程中說明與解釋您的操作步驟。
+> 題目：Build a Website using Amazon S3(Versioning) and AWS Amplify
+> 
+> 運用 S3 與 Amplify 服務進行網頁部署，過程中演示版本控制功能。並於過程中說明與解釋您的操作步驟。
 > 
 > 截止日期：2021/04/12
 * 作業四
-> 題目：運用無伺服器框架串接 Telegram Chatbot，並且成功執行 DEMO 文件，達到鸚鵡機器人的效果。並於過程中說明與解釋您的操作步驟。
+> 題目：Build a Telegram Chatbot using Amazon API Gateway and AWS Lambda
+> 
+> 運用無伺服器框架串接 Telegram Chatbot，並且成功執行 DEMO 文件，達到鸚鵡機器人的效果。並於過程中說明與解釋您的操作步驟。
 > 
 > 截止日期：2021/04/26
 * 作業五
-> 題目：運用資料庫服務上傳給定的資料集，並且可透過界面進行 CRUD 行為。並於過程中說明與解釋您的操作步驟。
+> 題目：Create a Database using Amazon RDS or Amazon DynamoDB
+> 
+> 運用資料庫服務上傳給定的資料集，並且可透過界面進行 CRUD 行為。並於過程中說明與解釋您的操作步驟。
 > 
 > 截止日期：2021/05/03
 * 作業六
-> 題目：透過 Docker 建立 Image，並執行該 Container，其內容可以是程序執行、各種伺服器服務等，並上傳至 Docker Hub。或您也可以選擇演示操作您的專案成品。並於過程中說明與解釋您的操作步驟。
+> 題目：Create a Docker Container or Build your own Project Services
+> 
+> 透過 Docker 建立 Image，並執行該 Container，其內容可以是程序執行、各種伺服器服務等，並上傳至 Docker Hub。或您也可以選擇演示操作您的專案成品。並於過程中說明與解釋您的操作步驟。
 > 
 > 截止日期：2021/05/17
 
