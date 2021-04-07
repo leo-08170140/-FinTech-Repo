@@ -25,7 +25,7 @@
 > 藉由 Linux 2 虛擬機完成安裝 LAMP 解決方案包，並成功啟動網頁伺服器與資料庫伺服器的功能。並於過程中說明與解釋您的操作步驟。
 > 
 > 截止日期：2021/03/29
-* 作業三
+* [作業三](https://youtu.be/JWuzclsMOPY)
 > 題目：Build a Website using Amazon S3(Versioning) and AWS Amplify
 > 
 > 運用 S3 與 Amplify 服務進行網頁部署，過程中演示版本控制功能。並於過程中說明與解釋您的操作步驟。
