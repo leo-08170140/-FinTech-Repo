@@ -31,7 +31,7 @@
 > 運用 S3 與 Amplify 服務進行網頁部署，過程中演示版本控制功能。並於過程中說明與解釋您的操作步驟。
 > 
 > 截止日期：2021/04/12
-* [作業四](https://youtu.be/LlNSGa8AdwM)
+* [作業四](https://youtu.be/7gkGWyuHEVo)
 > 題目：Build a Telegram Chatbot using Amazon API Gateway and AWS Lambda
 > 
 > 運用無伺服器框架串接 Telegram Chatbot，並且成功執行 DEMO 文件，達到鸚鵡機器人的效果。並於過程中說明與解釋您的操作步驟。
