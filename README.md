@@ -85,3 +85,10 @@
        
   臺灣大學財金系陳若昕
   
+### 階段性進度追蹤
+
+* 第一次進度追蹤
+> 影片連結：https://youtu.be/aQ75kPYyXbQ
+> ppt連結：https://drive.google.com/file/d/1oDcMQL0_wYCqI9A3mruUHUtxZwiYvfRX/view?usp=sharing
+
+  
