@@ -90,7 +90,7 @@
 * 第一次進度追蹤
 > 影片連結：https://youtu.be/aQ75kPYyXbQ
 > 
-> PPT連結：https://drive.google.com/file/d/1oDcMQL0_wYCqI9A3mruUHUtxZwiYvfRX/view?usp=sharing
+> [PPT連結](FinalProject/雲端進度追蹤.pdf)
 
 * 第二次進度追蹤
 > [PPT連結](FinalProject/第二次進度回報.pdf)
