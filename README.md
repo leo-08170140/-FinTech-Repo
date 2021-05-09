@@ -88,7 +88,7 @@
 ### 階段性進度追蹤
 
 * 第一次進度追蹤
-> 影片連結：https://youtu.be/aQ75kPYyXbQ
+> [影片連結](https://youtu.be/aQ75kPYyXbQ)
 > 
 > [PPT連結](FinalProject/雲端進度追蹤.pdf)
 
