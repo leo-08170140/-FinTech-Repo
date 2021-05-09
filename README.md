@@ -90,9 +90,9 @@
 * 第一次進度追蹤
 > 影片連結：https://youtu.be/aQ75kPYyXbQ
 > 
-> ppt連結：https://drive.google.com/file/d/1oDcMQL0_wYCqI9A3mruUHUtxZwiYvfRX/view?usp=sharing
+> PPT連結：https://drive.google.com/file/d/1oDcMQL0_wYCqI9A3mruUHUtxZwiYvfRX/view?usp=sharing
 
 * 第二次進度追蹤
-> ppt連結：[FinalProject/第二次進度回報.pdf]
+> [PPT連結](FinalProject/第二次進度回報.pdf)
 
   
