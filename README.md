@@ -95,4 +95,7 @@
 * 第二次進度追蹤
 > [PPT連結](FinalProject/第二次進度回報.pdf)
 
-  
+* 第三次進度追蹤
+> [影片連結](https://youtu.be/MiGyUo21lZg)
+> 
+> [PPT連結](FinalProject/雲端進度追蹤.pdf)  
